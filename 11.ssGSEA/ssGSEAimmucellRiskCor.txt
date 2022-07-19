@@ -1,0 +1,842 @@
+Cell1	Cell2	cor	p.value
+Activated B cell	Activated B cell	1	0
+Activated CD4 T cell	Activated B cell	0.586121061259183	7.22744399937468e-35
+Activated CD8 T cell	Activated B cell	0.80997581022694	1.1187378523587e-85
+Activated dendritic cell	Activated B cell	0.534043806519949	3.73563602357104e-28
+CD56bright natural killer cell	Activated B cell	0.459650595511972	2.24288806942926e-20
+CD56dim natural killer cell	Activated B cell	0.275969886467124	9.09543789900429e-08
+Central memory CD4 T cell	Activated B cell	0.631672696966519	8.05556435332646e-42
+Central memory CD8 T cell	Activated B cell	0.532036020232906	6.43218158965908e-28
+Effector memeory CD4 T cell	Activated B cell	0.532071645080184	6.37066415687693e-28
+Effector memeory CD8 T cell	Activated B cell	0.767539843381129	1.03040050250649e-71
+Eosinophil	Activated B cell	0.32763544842902	1.57201123635149e-10
+Gamma delta T cell	Activated B cell	0.498579772813826	3.29804170547914e-24
+Immature  B cell	Activated B cell	0.876849920546556	7.19610211646636e-117
+Immature dendritic cell	Activated B cell	0.393030124069803	7.39060707413195e-15
+Macrophage	Activated B cell	0.729998278968646	1.22299344400879e-61
+Mast cell	Activated B cell	0.677104663292509	5.12375155991471e-50
+MDSC	Activated B cell	0.77523104720493	5.14726619482102e-74
+Memory B cell	Activated B cell	0.195585429136409	0.000176955465894802
+Monocyte	Activated B cell	0.522209332606118	8.72831120833442e-27
+Natural killer cell	Activated B cell	0.602286212030059	3.30441668425629e-37
+Natural killer T cell	Activated B cell	0.678551734553744	2.65571755828325e-50
+Neutrophil	Activated B cell	0.349968966242196	6.74086228237222e-12
+Plasmacytoid dendritic cell	Activated B cell	0.499646009440083	2.54820169238561e-24
+Regulatory T cell	Activated B cell	0.724655053635466	2.42243814720514e-60
+T follicular helper cell	Activated B cell	0.740504096606558	2.78471748506451e-64
+Type 1 T helper cell	Activated B cell	0.804768310544303	8.80989421924406e-84
+Type 17 T helper cell	Activated B cell	0.245181237647335	2.27221818711792e-06
+Type 2 T helper cell	Activated B cell	0.484014478740747	1.02295399295825e-22
+riskScore	Activated B cell	-0.0547739553264415	0.29798408005958
+Activated B cell	Activated CD4 T cell	0.586121061259183	2.06704898382116e-32
+Activated CD4 T cell	Activated CD4 T cell	1	0
+Activated CD8 T cell	Activated CD4 T cell	0.561910966983795	1.34162194414655e-31
+Activated dendritic cell	Activated CD4 T cell	0.557997502246623	4.27669729815512e-31
+CD56bright natural killer cell	Activated CD4 T cell	0.24621084590949	2.0538088256681e-06
+CD56dim natural killer cell	Activated CD4 T cell	0.185466968992835	0.00038187878084762
+Central memory CD4 T cell	Activated CD4 T cell	0.629423063124721	1.89146647140249e-41
+Central memory CD8 T cell	Activated CD4 T cell	0.445153038824561	4.54334201832548e-19
+Effector memeory CD4 T cell	Activated CD4 T cell	0.507854526187023	3.39253919448832e-25
+Effector memeory CD8 T cell	Activated CD4 T cell	0.484347646326551	9.47389825983042e-23
+Eosinophil	Activated CD4 T cell	0.0666515804637352	0.205186565865376
+Gamma delta T cell	Activated CD4 T cell	0.353539729983728	3.97886012795682e-12
+Immature  B cell	Activated CD4 T cell	0.625715821095028	7.60483780094768e-41
+Immature dendritic cell	Activated CD4 T cell	0.2932476865174	1.24461379617523e-08
+Macrophage	Activated CD4 T cell	0.537424905581611	1.48377021085355e-28
+Mast cell	Activated CD4 T cell	0.370342615696709	3.04120163586863e-13
+MDSC	Activated CD4 T cell	0.656936734787061	3.33861350755851e-46
+Memory B cell	Activated CD4 T cell	0.347136790883652	1.01922286527031e-11
+Monocyte	Activated CD4 T cell	0.415617531639631	1.35900274460054e-16
+Natural killer cell	Activated CD4 T cell	0.424229211270899	2.73037225680569e-17
+Natural killer T cell	Activated CD4 T cell	0.590480840104145	1.74122246269547e-35
+Neutrophil	Activated CD4 T cell	0.257581444171098	6.5297126258201e-07
+Plasmacytoid dendritic cell	Activated CD4 T cell	0.400698497885841	1.96889532523623e-15
+Regulatory T cell	Activated CD4 T cell	0.558946327404389	3.23334048208119e-31
+T follicular helper cell	Activated CD4 T cell	0.564142286643542	6.8795502427704e-32
+Type 1 T helper cell	Activated CD4 T cell	0.496473641877961	5.47497172732841e-24
+Type 17 T helper cell	Activated CD4 T cell	0.277017056273711	8.09338856340488e-08
+Type 2 T helper cell	Activated CD4 T cell	0.725684160139208	1.37047459419383e-60
+riskScore	Activated CD4 T cell	0.490705176290309	2.15543722468709e-23
+Activated B cell	Activated CD8 T cell	0.80997581022694	4.37426500272253e-83
+Activated CD4 T cell	Activated CD8 T cell	0.561910966983795	3.64921168807861e-29
+Activated CD8 T cell	Activated CD8 T cell	1	0
+Activated dendritic cell	Activated CD8 T cell	0.490543610081531	2.23894202404457e-23
+CD56bright natural killer cell	Activated CD8 T cell	0.480008690455702	2.55694446868943e-22
+CD56dim natural killer cell	Activated CD8 T cell	0.251242730147803	1.24528338295186e-06
+Central memory CD4 T cell	Activated CD8 T cell	0.533398294322453	4.45050984204495e-28
+Central memory CD8 T cell	Activated CD8 T cell	0.451755677772755	1.17503306372395e-19
+Effector memeory CD4 T cell	Activated CD8 T cell	0.41982653208168	6.23816176838234e-17
+Effector memeory CD8 T cell	Activated CD8 T cell	0.797834511043954	2.41397499036626e-81
+Eosinophil	Activated CD8 T cell	0.365600747820738	6.3802557027695e-13
+Gamma delta T cell	Activated CD8 T cell	0.529652667774215	1.22027143055782e-27
+Immature  B cell	Activated CD8 T cell	0.814607793010606	2.05179578316046e-87
+Immature dendritic cell	Activated CD8 T cell	0.303560828924968	3.55774177262168e-09
+Macrophage	Activated CD8 T cell	0.68615262186332	7.90146744939962e-52
+Mast cell	Activated CD8 T cell	0.611298043995181	1.43124945861635e-38
+MDSC	Activated CD8 T cell	0.789130758744019	2.04785734288147e-78
+Memory B cell	Activated CD8 T cell	0.169695949454865	0.00117219397912351
+Monocyte	Activated CD8 T cell	0.440080763034053	1.25882585815822e-18
+Natural killer cell	Activated CD8 T cell	0.52514211052634	4.04364608973518e-27
+Natural killer T cell	Activated CD8 T cell	0.691265289206023	6.98774432590512e-53
+Neutrophil	Activated CD8 T cell	0.36628063046948	5.74148548037924e-13
+Plasmacytoid dendritic cell	Activated CD8 T cell	0.407161898874606	6.28585353411504e-16
+Regulatory T cell	Activated CD8 T cell	0.68320403855311	3.12888368168569e-51
+T follicular helper cell	Activated CD8 T cell	0.667914957970207	3.05198435018662e-48
+Type 1 T helper cell	Activated CD8 T cell	0.770889080783606	1.05168565816993e-72
+Type 17 T helper cell	Activated CD8 T cell	0.269441758643165	1.86249013617916e-07
+Type 2 T helper cell	Activated CD8 T cell	0.431994173581316	6.1718428813637e-18
+riskScore	Activated CD8 T cell	-0.0956085601992182	0.0688389735364792
+Activated B cell	Activated dendritic cell	0.534043806519949	9.22702097822048e-26
+Activated CD4 T cell	Activated dendritic cell	0.557997502246623	1.15043157320373e-28
+Activated CD8 T cell	Activated dendritic cell	0.490543610081531	4.65699941001271e-21
+Activated dendritic cell	Activated dendritic cell	1	0
+CD56bright natural killer cell	Activated dendritic cell	0.444327144477823	5.369650972659e-19
+CD56dim natural killer cell	Activated dendritic cell	0.362410316955772	1.04323860900228e-12
+Central memory CD4 T cell	Activated dendritic cell	0.666870046076475	4.8127994721591e-48
+Central memory CD8 T cell	Activated dendritic cell	0.6367966538735	1.12264646414435e-42
+Effector memeory CD4 T cell	Activated dendritic cell	0.543847413259769	2.49502670980754e-29
+Effector memeory CD8 T cell	Activated dendritic cell	0.572306397770988	5.71817807520233e-33
+Eosinophil	Activated dendritic cell	0.230147301217115	9.45080889316283e-06
+Gamma delta T cell	Activated dendritic cell	0.429081465997589	1.08296580104148e-17
+Immature  B cell	Activated dendritic cell	0.620352525425353	5.50877204554762e-40
+Immature dendritic cell	Activated dendritic cell	0.523083395760443	6.94512706177154e-27
+Macrophage	Activated dendritic cell	0.662971884970881	2.5902429421112e-47
+Mast cell	Activated dendritic cell	0.498697936919936	3.20524171493607e-24
+MDSC	Activated dendritic cell	0.736442362258535	3.03031157843873e-63
+Memory B cell	Activated dendritic cell	0.16766332612641	0.00134536698539131
+Monocyte	Activated dendritic cell	0.443136220886095	6.82722220504774e-19
+Natural killer cell	Activated dendritic cell	0.568592883761141	1.78801784258602e-32
+Natural killer T cell	Activated dendritic cell	0.682244676468685	4.87902253536584e-51
+Neutrophil	Activated dendritic cell	0.481998915198313	1.62443045916021e-22
+Plasmacytoid dendritic cell	Activated dendritic cell	0.663963359593696	1.69228307342255e-47
+Regulatory T cell	Activated dendritic cell	0.725349989036579	1.64939326290486e-60
+T follicular helper cell	Activated dendritic cell	0.636492588275612	1.26323131279619e-42
+Type 1 T helper cell	Activated dendritic cell	0.635254750272329	2.03932318426868e-42
+Type 17 T helper cell	Activated dendritic cell	0.464032451727078	8.7797373479684e-21
+Type 2 T helper cell	Activated dendritic cell	0.462664658294995	1.17830652324376e-20
+riskScore	Activated dendritic cell	0.294739665156541	1.0415474689089e-08
+Activated B cell	CD56bright natural killer cell	0.459650595511972	4.21662957052701e-18
+Activated CD4 T cell	CD56bright natural killer cell	0.24621084590949	0.000127336147191422
+Activated CD8 T cell	CD56bright natural killer cell	0.480008690455702	5.01161115863128e-20
+Activated dendritic cell	CD56bright natural killer cell	0.444327144477823	9.45058571187983e-17
+CD56bright natural killer cell	CD56bright natural killer cell	1	0
+CD56dim natural killer cell	CD56bright natural killer cell	0.420033507426777	6.00212318119282e-17
+Central memory CD4 T cell	CD56bright natural killer cell	0.379222736078587	7.34616401844139e-14
+Central memory CD8 T cell	CD56bright natural killer cell	0.428822558656813	1.13817094392693e-17
+Effector memeory CD4 T cell	CD56bright natural killer cell	0.391097601544613	1.02591998745773e-14
+Effector memeory CD8 T cell	CD56bright natural killer cell	0.544231007566015	2.24027183298691e-29
+Eosinophil	CD56bright natural killer cell	0.319275651520755	4.79328844712748e-10
+Gamma delta T cell	CD56bright natural killer cell	0.329518296871386	1.21716265393759e-10
+Immature  B cell	CD56bright natural killer cell	0.453526132330753	8.13540508026121e-20
+Immature dendritic cell	CD56bright natural killer cell	0.377111085800187	1.03392646199938e-13
+Macrophage	CD56bright natural killer cell	0.535609543645706	2.43910401402137e-28
+Mast cell	CD56bright natural killer cell	0.520920817003188	1.22100711755476e-26
+MDSC	CD56bright natural killer cell	0.527403786570035	2.22254771112451e-27
+Memory B cell	CD56bright natural killer cell	0.0447096850914028	0.39570285420436
+Monocyte	CD56bright natural killer cell	0.31173898928796	1.27209247588834e-09
+Natural killer cell	CD56bright natural killer cell	0.521264521515652	1.11658267359741e-26
+Natural killer T cell	CD56bright natural killer cell	0.557167092074174	5.45868690393563e-31
+Neutrophil	CD56bright natural killer cell	0.38931234511345	1.38632545710396e-14
+Plasmacytoid dendritic cell	CD56bright natural killer cell	0.471161937008245	1.85388884863662e-21
+Regulatory T cell	CD56bright natural killer cell	0.486707165260656	5.48851838392306e-23
+T follicular helper cell	CD56bright natural killer cell	0.43708902850038	2.27803435180803e-18
+Type 1 T helper cell	CD56bright natural killer cell	0.600925192336544	5.263196790695e-37
+Type 17 T helper cell	CD56bright natural killer cell	0.361891749636602	1.12945592791885e-12
+Type 2 T helper cell	CD56bright natural killer cell	0.331599339886633	9.15499766907813e-11
+riskScore	CD56bright natural killer cell	-0.10172298821219	0.0528157355620628
+Activated B cell	CD56dim natural killer cell	0.275969886467124	7.09444156122334e-06
+Activated CD4 T cell	CD56dim natural killer cell	0.185466968992835	0.0164207875764476
+Activated CD8 T cell	CD56dim natural killer cell	0.251242730147803	8.09434198918712e-05
+Activated dendritic cell	CD56dim natural killer cell	0.362410316955772	1.26231871689276e-10
+CD56bright natural killer cell	CD56dim natural killer cell	0.420033507426777	9.60339708990851e-15
+CD56dim natural killer cell	CD56dim natural killer cell	1	0
+Central memory CD4 T cell	CD56dim natural killer cell	0.335736087117303	5.16414595426761e-11
+Central memory CD8 T cell	CD56dim natural killer cell	0.401973466011638	1.57493119681419e-15
+Effector memeory CD4 T cell	CD56dim natural killer cell	0.318052615390637	5.62637500101783e-10
+Effector memeory CD8 T cell	CD56dim natural killer cell	0.318268120628743	5.47001450947213e-10
+Eosinophil	CD56dim natural killer cell	0.226589332315098	1.306324320398e-05
+Gamma delta T cell	CD56dim natural killer cell	0.130098931706164	0.0131117249206708
+Immature  B cell	CD56dim natural killer cell	0.236548985921161	5.21017109973701e-06
+Immature dendritic cell	CD56dim natural killer cell	0.223928005695962	1.65860312641014e-05
+Macrophage	CD56dim natural killer cell	0.457338994506247	3.65877777294356e-20
+Mast cell	CD56dim natural killer cell	0.250571628271277	1.33203994695425e-06
+MDSC	CD56dim natural killer cell	0.395667617164353	4.70735167439247e-15
+Memory B cell	CD56dim natural killer cell	-0.0961323959817179	0.0673261952736015
+Monocyte	CD56dim natural killer cell	0.258662733549725	5.83876130850389e-07
+Natural killer cell	CD56dim natural killer cell	0.486735514610954	5.45249815692765e-23
+Natural killer T cell	CD56dim natural killer cell	0.41900013597653	7.27489455325025e-17
+Neutrophil	CD56dim natural killer cell	0.363692560578548	8.56730137810162e-13
+Plasmacytoid dendritic cell	CD56dim natural killer cell	0.374185081618532	1.65343737681275e-13
+Regulatory T cell	CD56dim natural killer cell	0.383654517255723	3.5565904904739e-14
+T follicular helper cell	CD56dim natural killer cell	0.352723619926031	4.49099035132776e-12
+Type 1 T helper cell	CD56dim natural killer cell	0.410643098739533	3.36357614739566e-16
+Type 17 T helper cell	CD56dim natural killer cell	0.362924117570024	9.6416962818774e-13
+Type 2 T helper cell	CD56dim natural killer cell	0.118929287688705	0.0234427827257461
+riskScore	CD56dim natural killer cell	-0.002119176654586	0.967904556538414
+Activated B cell	Central memory CD4 T cell	0.631672696966519	2.4972249495312e-39
+Activated CD4 T cell	Central memory CD4 T cell	0.629423063124721	5.8446313966337e-39
+Activated CD8 T cell	Central memory CD4 T cell	0.533398294322453	1.09482542114306e-25
+Activated dendritic cell	Central memory CD4 T cell	0.666870046076475	1.59303662528466e-45
+CD56bright natural killer cell	Central memory CD4 T cell	0.379222736078587	9.62347486415822e-12
+CD56dim natural killer cell	Central memory CD4 T cell	0.335736087117303	5.37071179243831e-09
+Central memory CD4 T cell	Central memory CD4 T cell	1	0
+Central memory CD8 T cell	Central memory CD4 T cell	0.602022788863573	3.61657307005646e-37
+Effector memeory CD4 T cell	Central memory CD4 T cell	0.649582461737158	6.95637758756801e-45
+Effector memeory CD8 T cell	Central memory CD4 T cell	0.634840548702929	2.39263178845306e-42
+Eosinophil	Central memory CD4 T cell	0.243524682248941	2.67091341740875e-06
+Gamma delta T cell	Central memory CD4 T cell	0.425843869841861	2.01047619175851e-17
+Immature  B cell	Central memory CD4 T cell	0.699832312338591	1.06940623957835e-54
+Immature dendritic cell	Central memory CD4 T cell	0.511561768216716	1.34026823096084e-25
+Macrophage	Central memory CD4 T cell	0.635378433720975	1.94421929694152e-42
+Mast cell	Central memory CD4 T cell	0.513950138259531	7.32353059155003e-26
+MDSC	Central memory CD4 T cell	0.713085508163359	1.23036966893292e-57
+Memory B cell	Central memory CD4 T cell	0.171221545907633	0.00105596236881933
+Monocyte	Central memory CD4 T cell	0.422950229077803	3.47540873701883e-17
+Natural killer cell	Central memory CD4 T cell	0.695836308342587	7.65231581198112e-54
+Natural killer T cell	Central memory CD4 T cell	0.696338317634149	5.98685382657669e-54
+Neutrophil	Central memory CD4 T cell	0.326280198957246	1.88781096213666e-10
+Plasmacytoid dendritic cell	Central memory CD4 T cell	0.6331134962476	4.64586353944295e-42
+Regulatory T cell	Central memory CD4 T cell	0.723544411389715	4.46658525564043e-60
+T follicular helper cell	Central memory CD4 T cell	0.697654680828965	3.13788930814041e-54
+Type 1 T helper cell	Central memory CD4 T cell	0.705566909233409	5.99162781345225e-56
+Type 17 T helper cell	Central memory CD4 T cell	0.362547798760757	1.0214812637828e-12
+Type 2 T helper cell	Central memory CD4 T cell	0.535731220060703	2.35940600635329e-28
+riskScore	Central memory CD4 T cell	0.224422739490545	1.58694147651875e-05
+Activated B cell	Central memory CD8 T cell	0.532036020232906	1.56302012628716e-25
+Activated CD4 T cell	Central memory CD8 T cell	0.445153038824561	8.0417153724361e-17
+Activated CD8 T cell	Central memory CD8 T cell	0.451755677772755	2.10330918406587e-17
+Activated dendritic cell	Central memory CD8 T cell	0.6367966538735	3.5587892913376e-40
+CD56bright natural killer cell	Central memory CD8 T cell	0.428822558656813	1.87798205747944e-15
+CD56dim natural killer cell	Central memory CD8 T cell	0.401973466011638	2.31514885931686e-13
+Central memory CD4 T cell	Central memory CD8 T cell	0.602022788863573	1.0632724825966e-34
+Central memory CD8 T cell	Central memory CD8 T cell	1	0
+Effector memeory CD4 T cell	Central memory CD8 T cell	0.53332102352695	4.54466395761954e-28
+Effector memeory CD8 T cell	Central memory CD8 T cell	0.619040928935454	8.88865315617078e-40
+Eosinophil	Central memory CD8 T cell	0.245003364290155	2.31213292539014e-06
+Gamma delta T cell	Central memory CD8 T cell	0.485961050501483	6.52559322930798e-23
+Immature  B cell	Central memory CD8 T cell	0.619478964029441	7.57795921363708e-40
+Immature dendritic cell	Central memory CD8 T cell	0.544046360470268	2.35951967855182e-29
+Macrophage	Central memory CD8 T cell	0.728399174908467	3.01145203262076e-61
+Mast cell	Central memory CD8 T cell	0.546344664878065	1.23448378621265e-29
+MDSC	Central memory CD8 T cell	0.729969427859935	1.24311054959432e-61
+Memory B cell	Central memory CD8 T cell	0.141372690594187	0.00698027581146681
+Monocyte	Central memory CD8 T cell	0.424464285087088	2.61164592955811e-17
+Natural killer cell	Central memory CD8 T cell	0.638032735722339	6.9398513474444e-43
+Natural killer T cell	Central memory CD8 T cell	0.682041966070093	5.35804621877492e-51
+Neutrophil	Central memory CD8 T cell	0.497293264244545	4.49675170769037e-24
+Plasmacytoid dendritic cell	Central memory CD8 T cell	0.580775076254735	4.02075750652481e-34
+Regulatory T cell	Central memory CD8 T cell	0.739262244535976	5.80501114738485e-64
+T follicular helper cell	Central memory CD8 T cell	0.581069859321994	3.66072812424689e-34
+Type 1 T helper cell	Central memory CD8 T cell	0.668555954341992	2.30587005074487e-48
+Type 17 T helper cell	Central memory CD8 T cell	0.38496034352388	2.8661376578586e-14
+Type 2 T helper cell	Central memory CD8 T cell	0.443843198489105	5.92077030035444e-19
+riskScore	Central memory CD8 T cell	0.109675859048034	0.0367344214079934
+Activated B cell	Effector memeory CD4 T cell	0.532071645080184	1.55444205427797e-25
+Activated CD4 T cell	Effector memeory CD4 T cell	0.507854526187023	7.53143701176407e-23
+Activated CD8 T cell	Effector memeory CD4 T cell	0.41982653208168	9.91867721172793e-15
+Activated dendritic cell	Effector memeory CD4 T cell	0.543847413259769	6.38726837710731e-27
+CD56bright natural killer cell	Effector memeory CD4 T cell	0.391097601544613	1.45680638218998e-12
+CD56dim natural killer cell	Effector memeory CD4 T cell	0.318052615390637	5.28879250095676e-08
+Central memory CD4 T cell	Effector memeory CD4 T cell	0.649582461737158	2.24690996078447e-42
+Central memory CD8 T cell	Effector memeory CD4 T cell	0.53332102352695	1.11344266961679e-25
+Effector memeory CD4 T cell	Effector memeory CD4 T cell	1	0
+Effector memeory CD8 T cell	Effector memeory CD4 T cell	0.619064260701629	8.81349872174369e-40
+Eosinophil	Effector memeory CD4 T cell	0.298809678518368	6.37366755973557e-09
+Gamma delta T cell	Effector memeory CD4 T cell	0.43584441675853	2.91055573931515e-18
+Immature  B cell	Effector memeory CD4 T cell	0.597787947863287	1.52601812184361e-36
+Immature dendritic cell	Effector memeory CD4 T cell	0.578506626472473	8.24969535549261e-34
+Macrophage	Effector memeory CD4 T cell	0.594693854613493	4.31076519177065e-36
+Mast cell	Effector memeory CD4 T cell	0.592933686102948	7.74366484606268e-36
+MDSC	Effector memeory CD4 T cell	0.618079308938174	1.26052697313392e-39
+Memory B cell	Effector memeory CD4 T cell	0.221716254614296	2.01822498094942e-05
+Monocyte	Effector memeory CD4 T cell	0.291081595451259	1.60898161919487e-08
+Natural killer cell	Effector memeory CD4 T cell	0.575161403137295	2.3567192444874e-33
+Natural killer T cell	Effector memeory CD4 T cell	0.646858666195683	2.09705697628399e-44
+Neutrophil	Effector memeory CD4 T cell	0.306075892966903	2.60180078306742e-09
+Plasmacytoid dendritic cell	Effector memeory CD4 T cell	0.537358422591974	1.51110690410388e-28
+Regulatory T cell	Effector memeory CD4 T cell	0.661618140774344	4.61973956486528e-47
+T follicular helper cell	Effector memeory CD4 T cell	0.605762645190069	9.96104050967863e-38
+Type 1 T helper cell	Effector memeory CD4 T cell	0.616565503808096	2.17935174229488e-39
+Type 17 T helper cell	Effector memeory CD4 T cell	0.339174888396385	3.18750855860403e-11
+Type 2 T helper cell	Effector memeory CD4 T cell	0.547146223941804	9.8368118059131e-30
+riskScore	Effector memeory CD4 T cell	0.197931902351792	0.00014721463203376
+Activated B cell	Effector memeory CD8 T cell	0.767539843381129	3.8743058894244e-69
+Activated CD4 T cell	Effector memeory CD8 T cell	0.484347646326551	1.91372744848574e-20
+Activated CD8 T cell	Effector memeory CD8 T cell	0.797834511043954	9.31794346281378e-79
+Activated dendritic cell	Effector memeory CD8 T cell	0.572306397770988	1.57821714875584e-30
+CD56bright natural killer cell	Effector memeory CD8 T cell	0.544231007566015	5.77990132910623e-27
+CD56dim natural killer cell	Effector memeory CD8 T cell	0.318268120628743	5.19651378399852e-08
+Central memory CD4 T cell	Effector memeory CD8 T cell	0.634840548702929	7.48893749785807e-40
+Central memory CD8 T cell	Effector memeory CD8 T cell	0.619040928935454	2.6754846000074e-37
+Effector memeory CD4 T cell	Effector memeory CD8 T cell	0.619064260701629	2.66167661396659e-37
+Effector memeory CD8 T cell	Effector memeory CD8 T cell	1	0
+Eosinophil	Effector memeory CD8 T cell	0.472712370502426	1.31553224981937e-21
+Gamma delta T cell	Effector memeory CD8 T cell	0.63952471436148	3.87200791711063e-43
+Immature  B cell	Effector memeory CD8 T cell	0.839436053650017	1.24009659049242e-97
+Immature dendritic cell	Effector memeory CD8 T cell	0.52234179682698	8.43154892084614e-27
+Macrophage	Effector memeory CD8 T cell	0.769331873550859	3.05343986952761e-72
+Mast cell	Effector memeory CD8 T cell	0.705100273909917	7.59482876415649e-56
+MDSC	Effector memeory CD8 T cell	0.823540848904988	6.62456469270573e-91
+Memory B cell	Effector memeory CD8 T cell	0.193573377902861	0.000206848179274038
+Monocyte	Effector memeory CD8 T cell	0.406407755980835	7.1907985555257e-16
+Natural killer cell	Effector memeory CD8 T cell	0.684991302017922	1.36130452109202e-51
+Natural killer T cell	Effector memeory CD8 T cell	0.750327271924459	7.16510041024712e-67
+Neutrophil	Effector memeory CD8 T cell	0.385709217954321	2.53134559521808e-14
+Plasmacytoid dendritic cell	Effector memeory CD8 T cell	0.539989141947957	7.31504814593793e-29
+Regulatory T cell	Effector memeory CD8 T cell	0.82023827503486	1.36258279873487e-89
+T follicular helper cell	Effector memeory CD8 T cell	0.765243295127775	4.8196830282585e-71
+Type 1 T helper cell	Effector memeory CD8 T cell	0.865669488723231	1.60815131310385e-110
+Type 17 T helper cell	Effector memeory CD8 T cell	0.338182410256745	3.66602297335947e-11
+Type 2 T helper cell	Effector memeory CD8 T cell	0.481444973911071	1.84360257677277e-22
+riskScore	Effector memeory CD8 T cell	-0.129169675126481	0.0137837302058304
+Activated B cell	Eosinophil	0.32763544842902	1.55629112398797e-08
+Activated CD4 T cell	Eosinophil	0.0666515804637352	1
+Activated CD8 T cell	Eosinophil	0.365600747820738	7.97531962846188e-11
+Activated dendritic cell	Eosinophil	0.230147301217115	0.000538696106910281
+CD56bright natural killer cell	Eosinophil	0.319275651520755	4.60155690924238e-08
+CD56dim natural killer cell	Eosinophil	0.226589332315098	0.00070541513301492
+Central memory CD4 T cell	Eosinophil	0.243524682248941	0.000157583891627116
+Central memory CD8 T cell	Eosinophil	0.245003364290155	0.000138727975523408
+Effector memeory CD4 T cell	Eosinophil	0.298809678518368	5.48135410137259e-07
+Effector memeory CD8 T cell	Eosinophil	0.472712370502426	2.56528788714777e-19
+Eosinophil	Eosinophil	1	0
+Gamma delta T cell	Eosinophil	0.311666986955787	1.28384106550698e-09
+Immature  B cell	Eosinophil	0.355280079036985	3.06986201474809e-12
+Immature dendritic cell	Eosinophil	0.355888962870379	2.80251063094663e-12
+Macrophage	Eosinophil	0.350464703553604	6.26759900207985e-12
+Mast cell	Eosinophil	0.483027519943643	1.283422794678e-22
+MDSC	Eosinophil	0.325972621050471	1.96764714233746e-10
+Memory B cell	Eosinophil	0.0996153520010878	0.0579468165313203
+Monocyte	Eosinophil	0.0872801231917254	0.0968452378087419
+Natural killer cell	Eosinophil	0.408476004156567	4.96849807023945e-16
+Natural killer T cell	Eosinophil	0.349286825680598	7.4494894613719e-12
+Neutrophil	Eosinophil	0.266356697044794	2.59634056617951e-07
+Plasmacytoid dendritic cell	Eosinophil	0.262671532385244	3.83997991822166e-07
+Regulatory T cell	Eosinophil	0.405986529793662	7.75067081718656e-16
+T follicular helper cell	Eosinophil	0.338531383232538	3.49028776204212e-11
+Type 1 T helper cell	Eosinophil	0.456429808263058	4.43082841255937e-20
+Type 17 T helper cell	Eosinophil	0.229876100795237	9.68865850680128e-06
+Type 2 T helper cell	Eosinophil	0.146874471585672	0.00504878760385403
+riskScore	Eosinophil	-0.317836608394117	5.78745442574316e-10
+Activated B cell	Gamma delta T cell	0.498579772813826	7.09078966678016e-22
+Activated CD4 T cell	Gamma delta T cell	0.353539729983728	4.57568914715034e-10
+Activated CD8 T cell	Gamma delta T cell	0.529652667774215	2.94085414764435e-25
+Activated dendritic cell	Gamma delta T cell	0.429081465997589	1.79772322972885e-15
+CD56bright natural killer cell	Gamma delta T cell	0.329518296871386	1.21716265393759e-08
+CD56dim natural killer cell	Gamma delta T cell	0.130098931706164	0.419575197461467
+Central memory CD4 T cell	Gamma delta T cell	0.425843869841861	3.29718095448396e-15
+Central memory CD8 T cell	Gamma delta T cell	0.485961050501483	1.32469542554952e-20
+Effector memeory CD4 T cell	Gamma delta T cell	0.43584441675853	4.88973364204944e-16
+Effector memeory CD8 T cell	Gamma delta T cell	0.63952471436148	1.2390425334754e-40
+Eosinophil	Gamma delta T cell	0.311666986955787	1.15760415305839e-07
+Gamma delta T cell	Gamma delta T cell	1	0
+Immature  B cell	Gamma delta T cell	0.575620762963807	2.04182412656745e-33
+Immature dendritic cell	Gamma delta T cell	0.494697918856633	8.37131078512485e-24
+Macrophage	Gamma delta T cell	0.552134706077449	2.36058540251939e-30
+Mast cell	Gamma delta T cell	0.538972579404523	9.68942395928177e-29
+MDSC	Gamma delta T cell	0.590792933836631	1.57124980978781e-35
+Memory B cell	Gamma delta T cell	0.303795400982744	3.45584311299097e-09
+Monocyte	Gamma delta T cell	0.33310536776132	7.4397968127623e-11
+Natural killer cell	Gamma delta T cell	0.439486931953029	1.41676721552126e-18
+Natural killer T cell	Gamma delta T cell	0.585411825743318	9.09199216633587e-35
+Neutrophil	Gamma delta T cell	0.248332280476931	1.6653925677337e-06
+Plasmacytoid dendritic cell	Gamma delta T cell	0.371637152400588	2.47898176413835e-13
+Regulatory T cell	Gamma delta T cell	0.6539698372948	1.14825861020013e-45
+T follicular helper cell	Gamma delta T cell	0.561187180473971	1.66437494349496e-31
+Type 1 T helper cell	Gamma delta T cell	0.603368254046305	2.27868080308811e-37
+Type 17 T helper cell	Gamma delta T cell	0.200386002746626	0.000121165833540716
+Type 2 T helper cell	Gamma delta T cell	0.391942562711021	8.89102600793916e-15
+riskScore	Gamma delta T cell	-0.0114398409225129	0.828041875363057
+Activated B cell	Immature  B cell	0.876849920546556	2.91442135716888e-114
+Activated CD4 T cell	Immature  B cell	0.625715821095028	2.34229004269188e-38
+Activated CD8 T cell	Immature  B cell	0.814607793010606	8.06355742782061e-85
+Activated dendritic cell	Immature  B cell	0.620352525425353	1.67466670184648e-37
+CD56bright natural killer cell	Immature  B cell	0.453526132330753	1.48064372460754e-17
+CD56dim natural killer cell	Immature  B cell	0.236548985921161	0.000302189923784746
+Central memory CD4 T cell	Immature  B cell	0.699832312338591	3.73222777612843e-52
+Central memory CD8 T cell	Immature  B cell	0.619478964029441	2.29612164173204e-37
+Effector memeory CD4 T cell	Immature  B cell	0.597787947863287	4.44071273456491e-34
+Effector memeory CD8 T cell	Immature  B cell	0.839436053650017	4.9727873278746e-95
+Eosinophil	Immature  B cell	0.355280079036985	3.56103993710778e-10
+Gamma delta T cell	Immature  B cell	0.575620762963807	5.69668931312318e-31
+Immature  B cell	Immature  B cell	1	0
+Immature dendritic cell	Immature  B cell	0.523042000691423	7.02080809003927e-27
+Macrophage	Immature  B cell	0.749220643746008	1.42220453554267e-66
+Mast cell	Immature  B cell	0.675772494707703	9.35168495953408e-50
+MDSC	Immature  B cell	0.835526602980144	6.52348927391055e-96
+Memory B cell	Immature  B cell	0.255647416370671	7.96581814303665e-07
+Monocyte	Immature  B cell	0.499935524044012	2.37546441585368e-24
+Natural killer cell	Immature  B cell	0.644796439120899	4.79950778142335e-44
+Natural killer T cell	Immature  B cell	0.717515533186051	1.17496760378136e-58
+Neutrophil	Immature  B cell	0.387546657260369	1.86382677022305e-14
+Plasmacytoid dendritic cell	Immature  B cell	0.544754090710896	1.93383922019588e-29
+Regulatory T cell	Immature  B cell	0.830242836018828	1.17473573731918e-93
+T follicular helper cell	Immature  B cell	0.781408947657064	6.24780523142808e-76
+Type 1 T helper cell	Immature  B cell	0.833442549414423	5.17068455773228e-95
+Type 17 T helper cell	Immature  B cell	0.277226791290076	7.90590702773077e-08
+Type 2 T helper cell	Immature  B cell	0.52760298465974	2.10797128322349e-27
+riskScore	Immature  B cell	0.00514202020982533	0.922224994110334
+Activated B cell	Immature dendritic cell	0.393030124069803	1.064247418675e-12
+Activated CD4 T cell	Immature dendritic cell	0.2932476865174	1.04547558878719e-06
+Activated CD8 T cell	Immature dendritic cell	0.303560828924968	3.09523534218086e-07
+Activated dendritic cell	Immature dendritic cell	0.523083395760443	1.63210485951631e-24
+CD56bright natural killer cell	Immature dendritic cell	0.377111085800187	1.3441044005992e-11
+CD56dim natural killer cell	Immature dendritic cell	0.223928005695962	0.000829301563205072
+Central memory CD4 T cell	Immature dendritic cell	0.511561768216716	3.0156035196619e-23
+Central memory CD8 T cell	Immature dendritic cell	0.544046360470268	6.06396557387818e-27
+Effector memeory CD4 T cell	Immature dendritic cell	0.578506626472473	2.31816439489342e-31
+Effector memeory CD8 T cell	Immature dendritic cell	0.52234179682698	1.96455089855715e-24
+Eosinophil	Immature dendritic cell	0.355888962870379	3.27893743820756e-10
+Gamma delta T cell	Immature dendritic cell	0.494697918856633	1.77471788644647e-21
+Immature  B cell	Immature dendritic cell	0.523042000691423	1.64286909306919e-24
+Immature dendritic cell	Immature dendritic cell	1	0
+Macrophage	Immature dendritic cell	0.536796202290929	1.76308575283515e-28
+Mast cell	Immature dendritic cell	0.515341012578582	5.13940508570491e-26
+MDSC	Immature dendritic cell	0.548128666913197	7.44051836254526e-30
+Memory B cell	Immature dendritic cell	0.227188682738658	1.23744677999529e-05
+Monocyte	Immature dendritic cell	0.263805757276375	3.40635021230746e-07
+Natural killer cell	Immature dendritic cell	0.543813042808523	2.51920383043375e-29
+Natural killer T cell	Immature dendritic cell	0.546007483224962	1.35798835715364e-29
+Neutrophil	Immature dendritic cell	0.408661905648345	4.80551029346006e-16
+Plasmacytoid dendritic cell	Immature dendritic cell	0.483741271285219	1.08932724598393e-22
+Regulatory T cell	Immature dendritic cell	0.653282930028284	1.5254085514255e-45
+T follicular helper cell	Immature dendritic cell	0.503031122569043	1.11677618210938e-24
+Type 1 T helper cell	Immature dendritic cell	0.56337835946073	8.6520209487729e-32
+Type 17 T helper cell	Immature dendritic cell	0.361342073295865	1.22844486564213e-12
+Type 2 T helper cell	Immature dendritic cell	0.381629169424247	4.96130254048161e-14
+riskScore	Immature dendritic cell	0.0735688219364764	0.161892165541025
+Activated B cell	Macrophage	0.729998278968646	4.451696136192e-59
+Activated CD4 T cell	Macrophage	0.537424905581611	3.73910093135094e-26
+Activated CD8 T cell	Macrophage	0.68615262186332	2.71020333514407e-49
+Activated dendritic cell	Macrophage	0.662971884970881	8.49599685012474e-45
+CD56bright natural killer cell	Macrophage	0.535609543645706	6.048977954773e-26
+CD56dim natural killer cell	Macrophage	0.457338994506247	6.80532665767502e-18
+Central memory CD4 T cell	Macrophage	0.635378433720975	6.12429078536579e-40
+Central memory CD8 T cell	Macrophage	0.728399174908467	1.09014563580872e-58
+Effector memeory CD4 T cell	Macrophage	0.594693854613493	1.25012190561349e-33
+Effector memeory CD8 T cell	Macrophage	0.769331873550859	1.15114683081191e-69
+Eosinophil	Macrophage	0.350464703553604	7.01971088232943e-10
+Gamma delta T cell	Macrophage	0.552134706077449	6.27915717070157e-28
+Immature  B cell	Macrophage	0.749220643746008	5.26215678150786e-64
+Immature dendritic cell	Macrophage	0.536796202290929	4.40771438208788e-26
+Macrophage	Macrophage	1	0
+Mast cell	Macrophage	0.730487493420693	9.27122174358295e-62
+MDSC	Macrophage	0.873754322021525	4.7352292638327e-115
+Memory B cell	Macrophage	0.124992536343616	0.0171925045433908
+Monocyte	Macrophage	0.511148821043346	1.48717914501747e-25
+Natural killer cell	Macrophage	0.684995817843633	1.35843470965184e-51
+Natural killer T cell	Macrophage	0.79326148487374	8.68964912268599e-80
+Neutrophil	Macrophage	0.55145256551585	2.87337923941465e-30
+Plasmacytoid dendritic cell	Macrophage	0.600550378802513	5.98069159200061e-37
+Regulatory T cell	Macrophage	0.829165811586706	3.31231571448843e-93
+T follicular helper cell	Macrophage	0.751301937640461	3.90559250234474e-67
+Type 1 T helper cell	Macrophage	0.813145919876206	7.33560015799087e-87
+Type 17 T helper cell	Macrophage	0.435903373371982	2.87703365920052e-18
+Type 2 T helper cell	Macrophage	0.470811207878009	2.00299763153021e-21
+riskScore	Macrophage	-0.00366659959829222	0.944498188588641
+Activated B cell	Mast cell	0.677104663292509	1.71645677257143e-47
+Activated CD4 T cell	Mast cell	0.370342615696709	3.86232607755316e-11
+Activated CD8 T cell	Mast cell	0.611298043995181	4.26512338667671e-36
+Activated dendritic cell	Mast cell	0.498697936919936	6.92332210426192e-22
+CD56bright natural killer cell	Mast cell	0.520920817003188	2.80831637037595e-24
+CD56dim natural killer cell	Mast cell	0.250571628271277	8.52505566050718e-05
+Central memory CD4 T cell	Mast cell	0.513950138259531	1.66244144428186e-23
+Central memory CD8 T cell	Mast cell	0.546344664878065	3.22200268201503e-27
+Effector memeory CD4 T cell	Mast cell	0.592933686102948	2.23791914051211e-33
+Effector memeory CD8 T cell	Mast cell	0.705100273909917	2.66578489621893e-53
+Eosinophil	Mast cell	0.483027519943643	2.55401136140922e-20
+Gamma delta T cell	Mast cell	0.538972579404523	2.45142426169829e-26
+Immature  B cell	Mast cell	0.675772494707703	3.12346277648438e-47
+Immature dendritic cell	Mast cell	0.515341012578582	1.17178435954072e-23
+Macrophage	Mast cell	0.730487493420693	3.38399593640778e-59
+Mast cell	Mast cell	1	0
+MDSC	Mast cell	0.703664743092167	1.57049005532704e-55
+Memory B cell	Mast cell	0.140189795137058	0.00747327438485873
+Monocyte	Mast cell	0.418514433833369	7.96130239622944e-17
+Natural killer cell	Mast cell	0.548881555410938	6.00360348700337e-30
+Natural killer T cell	Mast cell	0.684875144945461	1.43722386648832e-51
+Neutrophil	Mast cell	0.410563820910381	3.41209345977885e-16
+Plasmacytoid dendritic cell	Mast cell	0.513936339903191	7.34924679276032e-26
+Regulatory T cell	Mast cell	0.72704543071193	6.42546034155897e-61
+T follicular helper cell	Mast cell	0.718334402915016	7.57413355033086e-59
+Type 1 T helper cell	Mast cell	0.741485786940333	1.55344395936145e-64
+Type 17 T helper cell	Mast cell	0.261270121139534	4.44931429897189e-07
+Type 2 T helper cell	Mast cell	0.450911971002378	1.39898864084225e-19
+riskScore	Mast cell	-0.111219769682854	0.034150621056568
+Activated B cell	MDSC	0.77523104720493	1.95081388783717e-71
+Activated CD4 T cell	MDSC	0.656936734787061	1.08838800346408e-43
+Activated CD8 T cell	MDSC	0.789130758744019	7.84329362323601e-76
+Activated dendritic cell	MDSC	0.736442362258535	1.10909403770858e-60
+CD56bright natural killer cell	MDSC	0.527403786570035	5.31188902958757e-25
+CD56dim natural killer cell	MDSC	0.395667617164353	6.82565992786907e-13
+Central memory CD4 T cell	MDSC	0.713085508163359	4.35550862802254e-55
+Central memory CD8 T cell	MDSC	0.729969427859935	4.5124912950274e-59
+Effector memeory CD4 T cell	MDSC	0.618079308938174	3.78158091940175e-37
+Effector memeory CD8 T cell	MDSC	0.823540848904988	2.61670305361876e-88
+Eosinophil	MDSC	0.325972621050471	1.90861772806734e-08
+Gamma delta T cell	MDSC	0.590792933836631	4.52519945218889e-33
+Immature  B cell	MDSC	0.835526602980144	2.60939570956422e-93
+Immature dendritic cell	MDSC	0.548128666913197	1.9568563293494e-27
+Macrophage	MDSC	0.873754322021525	1.91303262258841e-112
+Mast cell	MDSC	0.703664743092167	5.49671519364464e-53
+MDSC	MDSC	1	0
+Memory B cell	MDSC	0.176244398494524	0.000744176897250322
+Monocyte	MDSC	0.51699531006412	3.36551836456329e-26
+Natural killer cell	MDSC	0.666831912437136	4.89329933687054e-48
+Natural killer T cell	MDSC	0.80105053158795	1.83678005507134e-82
+Neutrophil	MDSC	0.509182178946117	2.43583664340644e-25
+Plasmacytoid dendritic cell	MDSC	0.639383469368402	4.09248303176452e-43
+Regulatory T cell	MDSC	0.887580024194791	1.42077651121138e-123
+T follicular helper cell	MDSC	0.781479444714	5.93615682679548e-76
+Type 1 T helper cell	MDSC	0.834631465972501	1.59287195016469e-95
+Type 17 T helper cell	MDSC	0.440926978596491	1.0632653197823e-18
+Type 2 T helper cell	MDSC	0.525242462208811	3.93805325509032e-27
+riskScore	MDSC	0.120214792741161	0.0219742086249195
+Activated B cell	Memory B cell	0.195585429136409	0.00813995143116088
+Activated CD4 T cell	Memory B cell	0.347136790883652	1.11095292314464e-09
+Activated CD8 T cell	Memory B cell	0.169695949454865	0.0445433712066935
+Activated dendritic cell	Memory B cell	0.16766332612641	0.0497785784594785
+CD56bright natural killer cell	Memory B cell	0.0447096850914028	1
+CD56dim natural killer cell	Memory B cell	-0.0961323959817179	1
+Central memory CD4 T cell	Memory B cell	0.171221545907633	0.0411825323839538
+Central memory CD8 T cell	Memory B cell	0.141372690594187	0.237329377589872
+Effector memeory CD4 T cell	Memory B cell	0.221716254614296	0.000988930240665218
+Effector memeory CD8 T cell	Memory B cell	0.193573377902861	0.00910131988805768
+Eosinophil	Memory B cell	0.0996153520010878	1
+Gamma delta T cell	Memory B cell	0.303795400982744	3.04114193943205e-07
+Immature  B cell	Memory B cell	0.255647416370671	5.25743997440419e-05
+Immature dendritic cell	Memory B cell	0.227188682738658	0.000680595728997407
+Macrophage	Memory B cell	0.124992536343616	0.515775136301724
+Mast cell	Memory B cell	0.140189795137058	0.246618054700338
+MDSC	Memory B cell	0.176244398494524	0.0297670758900129
+Memory B cell	Memory B cell	1	0
+Monocyte	Memory B cell	0.264285689197794	3.23740020364419e-07
+Natural killer cell	Memory B cell	0.195510165374555	0.00017799667923823
+Natural killer T cell	Memory B cell	0.226374328835404	1.33190860385266e-05
+Neutrophil	Memory B cell	0.093555364775857	0.0750387090341028
+Plasmacytoid dendritic cell	Memory B cell	0.0881576986549362	0.0935222642063074
+Regulatory T cell	Memory B cell	0.178055495483923	0.000654446669548432
+T follicular helper cell	Memory B cell	0.181794097414389	0.000500022308084615
+Type 1 T helper cell	Memory B cell	0.224265438228271	1.60940143796278e-05
+Type 17 T helper cell	Memory B cell	0.0396584831542139	0.451278109038695
+Type 2 T helper cell	Memory B cell	0.383750603991689	3.50066581349112e-14
+riskScore	Memory B cell	0.117684174188443	0.0249453285328881
+Activated B cell	Monocyte	0.522209332606118	2.02496820033359e-24
+Activated CD4 T cell	Monocyte	0.415617531639631	2.12004428157684e-14
+Activated CD8 T cell	Monocyte	0.440080763034053	2.16518047603214e-16
+Activated dendritic cell	Monocyte	0.443136220886095	1.18793666367831e-16
+CD56bright natural killer cell	Monocyte	0.31173898928796	1.15760415305839e-07
+CD56dim natural killer cell	Monocyte	0.258662733549725	4.02874530286769e-05
+Central memory CD4 T cell	Monocyte	0.422950229077803	5.59540806660031e-15
+Central memory CD8 T cell	Monocyte	0.424464285087088	4.25698286517972e-15
+Effector memeory CD4 T cell	Monocyte	0.291081595451259	1.31936492773979e-06
+Effector memeory CD8 T cell	Monocyte	0.406407755980835	1.07142898477333e-13
+Eosinophil	Monocyte	0.0872801231917254	1
+Gamma delta T cell	Monocyte	0.33310536776132	7.66299071714517e-09
+Immature  B cell	Monocyte	0.499935524044012	5.17851242656102e-22
+Immature dendritic cell	Monocyte	0.263805757276375	2.52069915710752e-05
+Macrophage	Monocyte	0.511148821043346	3.33128128483913e-23
+Mast cell	Monocyte	0.418514433833369	1.24992447620802e-14
+MDSC	Monocyte	0.51699531006412	7.70703705484994e-24
+Memory B cell	Monocyte	0.264285689197794	2.42805015273314e-05
+Monocyte	Monocyte	1	0
+Natural killer cell	Monocyte	0.412456704520994	2.42139223974307e-16
+Natural killer T cell	Monocyte	0.454094624611953	7.22622160085903e-20
+Neutrophil	Monocyte	0.380894093350146	5.59519887516597e-14
+Plasmacytoid dendritic cell	Monocyte	0.291431571943877	1.54381961117061e-08
+Regulatory T cell	Monocyte	0.463471485822064	9.90730189756911e-21
+T follicular helper cell	Monocyte	0.459017376395578	2.56558514459698e-20
+Type 1 T helper cell	Monocyte	0.503743117756177	9.37781460437709e-25
+Type 17 T helper cell	Monocyte	0.257112049176339	6.85349642752317e-07
+Type 2 T helper cell	Monocyte	0.332471646886514	8.11956744019337e-11
+riskScore	Monocyte	-0.000823887313088719	0.987519181089565
+Activated B cell	Natural killer cell	0.602286212030059	9.74802921855605e-35
+Activated CD4 T cell	Natural killer cell	0.424229211270899	4.42320305602522e-15
+Activated CD8 T cell	Natural killer cell	0.52514211052634	9.58344123267237e-25
+Activated dendritic cell	Natural killer cell	0.568592883761141	4.91704906711155e-30
+CD56bright natural killer cell	Natural killer cell	0.521264521515652	2.57930597601002e-24
+CD56dim natural killer cell	Natural killer cell	0.486735514610954	1.11776212217017e-20
+Central memory CD4 T cell	Natural killer cell	0.695836308342587	2.64004895513349e-51
+Central memory CD8 T cell	Natural killer cell	0.638032735722339	2.20687272848732e-40
+Effector memeory CD4 T cell	Natural killer cell	0.575161403137295	6.55167949967496e-31
+Effector memeory CD8 T cell	Natural killer cell	0.684991302017922	4.6458467070093e-49
+Eosinophil	Natural killer cell	0.408476004156567	7.50243208606158e-14
+Gamma delta T cell	Natural killer cell	0.439486931953029	2.42267193854135e-16
+Immature  B cell	Natural killer cell	0.644796439120899	1.5406419978369e-41
+Immature dendritic cell	Natural killer cell	0.543813042808523	6.42396976760606e-27
+Macrophage	Natural killer cell	0.684995817843633	4.6458467070093e-49
+Mast cell	Natural killer cell	0.548881555410938	1.58495132056889e-27
+MDSC	Natural killer cell	0.666831912437136	1.61478878116728e-45
+Memory B cell	Natural killer cell	0.195510165374555	0.00813995143116088
+Monocyte	Natural killer cell	0.412456704520994	3.75315797160176e-14
+Natural killer cell	Natural killer cell	1	0
+Natural killer T cell	Natural killer cell	0.707412376674054	2.33513344225476e-56
+Neutrophil	Natural killer cell	0.55603763388796	7.59900614846107e-31
+Plasmacytoid dendritic cell	Natural killer cell	0.622262719701193	2.73325909090557e-40
+Regulatory T cell	Natural killer cell	0.697351618747902	3.64221465930114e-54
+T follicular helper cell	Natural killer cell	0.577580380443264	1.10455387418739e-33
+Type 1 T helper cell	Natural killer cell	0.762412123286056	3.15151057129519e-70
+Type 17 T helper cell	Natural killer cell	0.491980395295313	1.59564493603067e-23
+Type 2 T helper cell	Natural killer cell	0.455610687654887	5.26240590813552e-20
+riskScore	Natural killer cell	-0.111378576220364	0.033893846400619
+Activated B cell	Natural killer T cell	0.678551734553744	8.92321099583173e-48
+Activated CD4 T cell	Natural killer T cell	0.590480840104145	4.997308467936e-33
+Activated CD8 T cell	Natural killer T cell	0.691265289206023	2.40378404811136e-50
+Activated dendritic cell	Natural killer T cell	0.682244676468685	1.64910961695365e-48
+CD56bright natural killer cell	Natural killer T cell	0.557167092074174	1.46292809025475e-28
+CD56dim natural killer cell	Natural killer T cell	0.41900013597653	1.14943333941354e-14
+Central memory CD4 T cell	Natural killer T cell	0.696338317634149	2.07145142399553e-51
+Central memory CD8 T cell	Natural killer T cell	0.682041966070093	1.80566157572715e-48
+Effector memeory CD4 T cell	Natural killer T cell	0.646858666195683	6.75252346363443e-42
+Effector memeory CD8 T cell	Natural killer T cell	0.750327271924459	2.65825225220168e-64
+Eosinophil	Natural killer T cell	0.349286825680598	8.19443840750909e-10
+Gamma delta T cell	Natural killer T cell	0.585411825743318	2.59121776740572e-32
+Immature  B cell	Natural killer T cell	0.717515533186051	4.17113499342381e-56
+Immature dendritic cell	Natural killer T cell	0.546007483224962	3.53076972859946e-27
+Macrophage	Natural killer T cell	0.79326148487374	3.33682526311142e-77
+Mast cell	Natural killer T cell	0.684875144945461	4.88656114606028e-49
+MDSC	Natural killer T cell	0.80105053158795	7.10833881312607e-80
+Memory B cell	Natural killer T cell	0.226374328835404	0.00070591156004191
+Monocyte	Natural killer T cell	0.454094624611953	1.3223985529572e-17
+Natural killer cell	Natural killer T cell	0.707412376674054	8.2430210511593e-54
+Natural killer T cell	Natural killer T cell	1	0
+Neutrophil	Natural killer T cell	0.487494173330437	4.57057371653311e-23
+Plasmacytoid dendritic cell	Natural killer T cell	0.63295594410612	4.93475980746056e-42
+Regulatory T cell	Natural killer T cell	0.80767901109438	7.80234985374365e-85
+T follicular helper cell	Natural killer T cell	0.753036767351182	1.31695578346739e-67
+Type 1 T helper cell	Natural killer T cell	0.797530445446066	3.07221302983079e-81
+Type 17 T helper cell	Natural killer T cell	0.489485652469078	2.87024996876332e-23
+Type 2 T helper cell	Natural killer T cell	0.573937614369558	3.44966108783976e-33
+riskScore	Natural killer T cell	0.107234302613509	0.0411582195843215
+Activated B cell	Neutrophil	0.349968966242196	7.48235713343317e-10
+Activated CD4 T cell	Neutrophil	0.257581444171098	4.44020458555767e-05
+Activated CD8 T cell	Neutrophil	0.36628063046948	7.23427170527784e-11
+Activated dendritic cell	Neutrophil	0.481998915198313	3.21637230913722e-20
+CD56bright natural killer cell	Neutrophil	0.38931234511345	1.94085563994554e-12
+CD56dim natural killer cell	Neutrophil	0.363692560578548	1.0623453708846e-10
+Central memory CD4 T cell	Neutrophil	0.326280198957246	1.85005474289393e-08
+Central memory CD8 T cell	Neutrophil	0.497293264244545	9.62304865445738e-22
+Effector memeory CD4 T cell	Neutrophil	0.306075892966903	2.31560269693e-07
+Effector memeory CD8 T cell	Neutrophil	0.385709217954321	3.46794346544877e-12
+Eosinophil	Neutrophil	0.266356697044794	1.97321883029643e-05
+Gamma delta T cell	Neutrophil	0.248332280476931	0.000104919731767223
+Immature  B cell	Neutrophil	0.387546657260369	2.5720809429078e-12
+Immature dendritic cell	Neutrophil	0.408661905648345	7.30437564605928e-14
+Macrophage	Neutrophil	0.55145256551585	7.61445498444882e-28
+Mast cell	Neutrophil	0.410563820910381	5.22050299346164e-14
+MDSC	Neutrophil	0.509182178946117	5.43191571479637e-23
+Memory B cell	Neutrophil	0.093555364775857	1
+Monocyte	Neutrophil	0.380894093350146	7.38566251521908e-12
+Natural killer cell	Neutrophil	0.55603763388796	2.02893464163911e-28
+Natural killer T cell	Neutrophil	0.487494173330437	9.4153818560582e-21
+Neutrophil	Neutrophil	1	0
+Plasmacytoid dendritic cell	Neutrophil	0.491338144527497	1.85686166473484e-23
+Regulatory T cell	Neutrophil	0.453184183972732	8.73556115569664e-20
+T follicular helper cell	Neutrophil	0.336649287427791	4.54573488817835e-11
+Type 1 T helper cell	Neutrophil	0.465155888812343	6.88813692645518e-21
+Type 17 T helper cell	Neutrophil	0.452529640123814	1.00083773124054e-19
+Type 2 T helper cell	Neutrophil	0.284065256692077	3.64243559510314e-08
+riskScore	Neutrophil	-0.0720949066001803	0.170487490412999
+Activated B cell	Plasmacytoid dendritic cell	0.499646009440083	5.52959767247677e-22
+Activated CD4 T cell	Plasmacytoid dendritic cell	0.400698497885841	2.87458717484489e-13
+Activated CD8 T cell	Plasmacytoid dendritic cell	0.407161898874606	9.42878030117257e-14
+Activated dendritic cell	Plasmacytoid dendritic cell	0.663963359593696	5.5676113115602e-45
+CD56bright natural killer cell	Plasmacytoid dendritic cell	0.471161937008245	3.59654436635505e-19
+CD56dim natural killer cell	Plasmacytoid dendritic cell	0.374185081618532	2.13293421608845e-11
+Central memory CD4 T cell	Plasmacytoid dendritic cell	0.6331134962476	1.4495094243062e-39
+Central memory CD8 T cell	Plasmacytoid dendritic cell	0.580775076254735	1.13787437434652e-31
+Effector memeory CD4 T cell	Plasmacytoid dendritic cell	0.537358422591974	3.79287832930075e-26
+Effector memeory CD8 T cell	Plasmacytoid dendritic cell	0.539989141947957	1.85802222906823e-26
+Eosinophil	Plasmacytoid dendritic cell	0.262671532385244	2.80318534030181e-05
+Gamma delta T cell	Plasmacytoid dendritic cell	0.371637152400588	3.17309665809708e-11
+Immature  B cell	Plasmacytoid dendritic cell	0.544754090710896	5.00864358030733e-27
+Immature dendritic cell	Plasmacytoid dendritic cell	0.483741271285219	2.17865449196785e-20
+Macrophage	Plasmacytoid dendritic cell	0.600550378802513	1.74636194486418e-34
+Mast cell	Plasmacytoid dendritic cell	0.513936339903191	1.66244144428186e-23
+MDSC	Plasmacytoid dendritic cell	0.639383469368402	1.30550208713288e-40
+Memory B cell	Plasmacytoid dendritic cell	0.0881576986549362	1
+Monocyte	Plasmacytoid dendritic cell	0.291431571943877	1.28137027727161e-06
+Natural killer cell	Plasmacytoid dendritic cell	0.622262719701193	8.36377281817105e-38
+Natural killer T cell	Plasmacytoid dendritic cell	0.63295594410612	1.53471030012023e-39
+Neutrophil	Plasmacytoid dendritic cell	0.491338144527497	3.89940949594317e-21
+Plasmacytoid dendritic cell	Plasmacytoid dendritic cell	1	0
+Regulatory T cell	Plasmacytoid dendritic cell	0.623740147346376	1.58423277730657e-40
+T follicular helper cell	Plasmacytoid dendritic cell	0.580420082177993	4.50106015691257e-34
+Type 1 T helper cell	Plasmacytoid dendritic cell	0.620460152604804	5.29615900778718e-40
+Type 17 T helper cell	Plasmacytoid dendritic cell	0.351682722099598	5.23829373180392e-12
+Type 2 T helper cell	Plasmacytoid dendritic cell	0.390067742403252	1.22077847844338e-14
+riskScore	Plasmacytoid dendritic cell	0.147853904006591	0.0047604814686041
+Activated B cell	Regulatory T cell	0.724655053635466	8.67232856699442e-58
+Activated CD4 T cell	Regulatory T cell	0.558946327404389	8.73001930161921e-29
+Activated CD8 T cell	Regulatory T cell	0.68320403855311	1.06069156809145e-48
+Activated dendritic cell	Regulatory T cell	0.725349989036579	5.92132181382844e-58
+CD56bright natural killer cell	Regulatory T cell	0.486707165260656	1.1196577503203e-20
+CD56dim natural killer cell	Regulatory T cell	0.383654517255723	4.76583125723502e-12
+Central memory CD4 T cell	Regulatory T cell	0.723544411389715	1.59457093626363e-57
+Central memory CD8 T cell	Regulatory T cell	0.739262244535976	2.13043909109024e-61
+Effector memeory CD4 T cell	Regulatory T cell	0.661618140774344	1.51065483771095e-44
+Effector memeory CD8 T cell	Regulatory T cell	0.82023827503486	5.3685762270154e-87
+Eosinophil	Regulatory T cell	0.405986529793662	1.14709928094361e-13
+Gamma delta T cell	Regulatory T cell	0.6539698372948	3.73184048315043e-43
+Immature  B cell	Regulatory T cell	0.830242836018828	4.66370087715713e-91
+Immature dendritic cell	Regulatory T cell	0.653282930028284	4.94232370661862e-43
+Macrophage	Regulatory T cell	0.829165811586706	1.31167702293742e-90
+Mast cell	Regulatory T cell	0.72704543071193	2.31959118330279e-58
+MDSC	Regulatory T cell	0.887580024194791	5.76835263551822e-121
+Memory B cell	Regulatory T cell	0.178055495483923	0.0268323134514857
+Monocyte	Regulatory T cell	0.463471485822064	1.88238736053813e-18
+Natural killer cell	Regulatory T cell	0.697351618747902	1.26384848677749e-51
+Natural killer T cell	Regulatory T cell	0.80767901109438	3.04291644296002e-82
+Neutrophil	Regulatory T cell	0.453184183972732	1.58113656918109e-17
+Plasmacytoid dendritic cell	Regulatory T cell	0.623740147346376	4.86359462633117e-38
+Regulatory T cell	Regulatory T cell	1	0
+T follicular helper cell	Regulatory T cell	0.806551058183404	2.00590125146962e-84
+Type 1 T helper cell	Regulatory T cell	0.839852262253066	8.08189132083851e-98
+Type 17 T helper cell	Regulatory T cell	0.388762417893508	1.52048511563785e-14
+Type 2 T helper cell	Regulatory T cell	0.524651641678262	4.60132694877885e-27
+riskScore	Regulatory T cell	0.092435189120272	0.0786080874716716
+Activated B cell	T follicular helper cell	0.740504096606558	1.02477603450374e-61
+Activated CD4 T cell	T follicular helper cell	0.564142286643542	1.88499676651909e-29
+Activated CD8 T cell	T follicular helper cell	0.667914957970207	1.01325880426196e-45
+Activated dendritic cell	T follicular helper cell	0.636492588275612	3.99181094843595e-40
+CD56bright natural killer cell	T follicular helper cell	0.43708902850038	3.87265839807366e-16
+CD56dim natural killer cell	T follicular helper cell	0.352723619926031	5.11972900051364e-10
+Central memory CD4 T cell	T follicular helper cell	0.697654680828965	1.09198547923286e-51
+Central memory CD8 T cell	T follicular helper cell	0.581069859321994	1.03964678728612e-31
+Effector memeory CD4 T cell	T follicular helper cell	0.605762645190069	2.95842903137455e-35
+Effector memeory CD8 T cell	T follicular helper cell	0.765243295127775	1.80738113559694e-68
+Eosinophil	T follicular helper cell	0.338531383232538	3.73460790538506e-09
+Gamma delta T cell	T follicular helper cell	0.561187180473971	4.51045609687135e-29
+Immature  B cell	T follicular helper cell	0.781408947657064	2.37416598794267e-73
+Immature dendritic cell	T follicular helper cell	0.503031122569043	2.45690760064063e-22
+Macrophage	T follicular helper cell	0.751301937640461	1.45288041087224e-64
+Mast cell	T follicular helper cell	0.718334402915016	2.69639154391778e-56
+MDSC	T follicular helper cell	0.781479444714	2.26167575100908e-73
+Memory B cell	T follicular helper cell	0.181794097414389	0.0210009369395538
+Monocyte	T follicular helper cell	0.459017376395578	4.79764422039635e-18
+Natural killer cell	T follicular helper cell	0.577580380443264	3.0927508477247e-31
+Natural killer T cell	T follicular helper cell	0.753036767351182	4.91224507233335e-65
+Neutrophil	T follicular helper cell	0.336649287427791	4.77302163258727e-09
+Plasmacytoid dendritic cell	T follicular helper cell	0.580420082177993	1.26929896424934e-31
+Regulatory T cell	T follicular helper cell	0.806551058183404	7.80295586821682e-82
+T follicular helper cell	T follicular helper cell	1	0
+Type 1 T helper cell	T follicular helper cell	0.786049209454534	2.0659494345771e-77
+Type 17 T helper cell	T follicular helper cell	0.259127863597979	5.56364125893484e-07
+Type 2 T helper cell	T follicular helper cell	0.530281872823309	1.03098555090457e-27
+riskScore	T follicular helper cell	0.11725316371223	0.0254844550351745
+Activated B cell	Type 1 T helper cell	0.804768310544303	3.4182389570667e-81
+Activated CD4 T cell	Type 1 T helper cell	0.496473641877961	1.16616897792095e-21
+Activated CD8 T cell	Type 1 T helper cell	0.770889080783606	3.97537178788234e-70
+Activated dendritic cell	Type 1 T helper cell	0.635254750272329	6.40347479860366e-40
+CD56bright natural killer cell	Type 1 T helper cell	0.600925192336544	1.54211665967363e-34
+CD56dim natural killer cell	Type 1 T helper cell	0.410643098739533	5.17990726698932e-14
+Central memory CD4 T cell	Type 1 T helper cell	0.705566909233409	2.10905299033519e-53
+Central memory CD8 T cell	Type 1 T helper cell	0.668555954341992	7.67854726898042e-46
+Effector memeory CD4 T cell	Type 1 T helper cell	0.616565503808096	6.51626170946168e-37
+Effector memeory CD8 T cell	Type 1 T helper cell	0.865669488723231	6.48084979180851e-108
+Eosinophil	Type 1 T helper cell	0.456429808263058	8.19703256323484e-18
+Gamma delta T cell	Type 1 T helper cell	0.603368254046305	6.74489517714082e-35
+Immature  B cell	Type 1 T helper cell	0.833442549414423	2.05793245397745e-92
+Immature dendritic cell	Type 1 T helper cell	0.56337835946073	2.362001719015e-29
+Macrophage	Type 1 T helper cell	0.813145919876206	2.87555526193242e-84
+Mast cell	Type 1 T helper cell	0.741485786940333	5.73220821004375e-62
+MDSC	Type 1 T helper cell	0.834631465972501	6.3555590811571e-93
+Memory B cell	Type 1 T helper cell	0.224265438228271	0.000825209567789748
+Monocyte	Type 1 T helper cell	0.503743117756177	2.07249702756734e-22
+Natural killer cell	Type 1 T helper cell	0.762412123286056	1.1786649536644e-67
+Natural killer T cell	Type 1 T helper cell	0.797530445446066	1.18280201648486e-78
+Neutrophil	Type 1 T helper cell	0.465155888812343	1.32252228987939e-18
+Plasmacytoid dendritic cell	Type 1 T helper cell	0.620460152604804	1.61532849737509e-37
+Regulatory T cell	Type 1 T helper cell	0.839852262253066	3.24892031097708e-95
+T follicular helper cell	Type 1 T helper cell	0.786049209454534	7.89192684008452e-75
+Type 1 T helper cell	Type 1 T helper cell	1	0
+Type 17 T helper cell	Type 1 T helper cell	0.358280092584462	1.95580697833512e-12
+Type 2 T helper cell	Type 1 T helper cell	0.502137992595049	1.3895678029172e-24
+riskScore	Type 1 T helper cell	-0.102114359773827	0.0519058432991136
+Activated B cell	Type 17 T helper cell	0.245181237647335	0.000138605309414193
+Activated CD4 T cell	Type 17 T helper cell	0.277017056273711	6.39377696508985e-06
+Activated CD8 T cell	Type 17 T helper cell	0.269441758643165	1.43411740485795e-05
+Activated dendritic cell	Type 17 T helper cell	0.464032451727078	1.67692983346196e-18
+CD56bright natural killer cell	Type 17 T helper cell	0.361891749636602	1.35534711350262e-10
+CD56dim natural killer cell	Type 17 T helper cell	0.362924117570024	1.18592864267092e-10
+Central memory CD4 T cell	Type 17 T helper cell	0.362547798760757	1.24620714181501e-10
+Central memory CD8 T cell	Type 17 T helper cell	0.38496034352388	3.8979472146877e-12
+Effector memeory CD4 T cell	Type 17 T helper cell	0.339174888396385	3.44250924329235e-09
+Effector memeory CD8 T cell	Type 17 T helper cell	0.338182410256745	3.88598435176104e-09
+Eosinophil	Type 17 T helper cell	0.229876100795237	0.000542564876380872
+Gamma delta T cell	Type 17 T helper cell	0.200386002746626	0.00581596000995439
+Immature  B cell	Type 17 T helper cell	0.277226791290076	6.32472562218461e-06
+Immature dendritic cell	Type 17 T helper cell	0.361342073295865	1.46184939011413e-10
+Macrophage	Type 17 T helper cell	0.435903373371982	4.86218688404888e-16
+Mast cell	Type 17 T helper cell	0.261270121139534	3.20350629525976e-05
+MDSC	Type 17 T helper cell	0.440926978596491	1.83944900322337e-16
+Memory B cell	Type 17 T helper cell	0.0396584831542139	1
+Monocyte	Type 17 T helper cell	0.257112049176339	4.59184260644053e-05
+Natural killer cell	Type 17 T helper cell	0.491980395295313	3.36681081502471e-21
+Natural killer T cell	Type 17 T helper cell	0.489485652469078	5.94141743534008e-21
+Neutrophil	Type 17 T helper cell	0.452529640123814	1.80150791623298e-17
+Plasmacytoid dendritic cell	Type 17 T helper cell	0.351682722099598	5.91927191693843e-10
+Regulatory T cell	Type 17 T helper cell	0.388762417893508	2.1134743107366e-12
+T follicular helper cell	Type 17 T helper cell	0.259127863597979	3.89454888125439e-05
+Type 1 T helper cell	Type 17 T helper cell	0.358280092584462	2.30785223443544e-10
+Type 17 T helper cell	Type 17 T helper cell	1	0
+Type 2 T helper cell	Type 17 T helper cell	0.260928674539925	4.61128237657309e-07
+riskScore	Type 17 T helper cell	0.0123063777006519	0.815242611181822
+Activated B cell	Type 2 T helper cell	0.484014478740747	2.05613752584608e-20
+Activated CD4 T cell	Type 2 T helper cell	0.725684160139208	4.93370853909777e-58
+Activated CD8 T cell	Type 2 T helper cell	0.431994173581316	1.03069776118774e-15
+Activated dendritic cell	Type 2 T helper cell	0.462664658294995	2.22699932893071e-18
+CD56bright natural killer cell	Type 2 T helper cell	0.331599339886633	9.24654764576891e-09
+CD56dim natural killer cell	Type 2 T helper cell	0.118929287688705	0.656397916320891
+Central memory CD4 T cell	Type 2 T helper cell	0.535731220060703	5.87492095581969e-26
+Central memory CD8 T cell	Type 2 T helper cell	0.443843198489105	1.03613480256203e-16
+Effector memeory CD4 T cell	Type 2 T helper cell	0.547146223941804	2.57724469314923e-27
+Effector memeory CD8 T cell	Type 2 T helper cell	0.481444973911071	3.63189707624235e-20
+Eosinophil	Type 2 T helper cell	0.146874471585672	0.176707566134891
+Gamma delta T cell	Type 2 T helper cell	0.391942562711021	1.2714167191353e-12
+Immature  B cell	Type 2 T helper cell	0.52760298465974	5.05913107973637e-25
+Immature dendritic cell	Type 2 T helper cell	0.381629169424247	6.59853237884054e-12
+Macrophage	Type 2 T helper cell	0.470811207878009	3.86578542885331e-19
+Mast cell	Type 2 T helper cell	0.450911971002378	2.49019978069921e-17
+MDSC	Type 2 T helper cell	0.525242462208811	9.37256674711497e-25
+Memory B cell	Type 2 T helper cell	0.383750603991689	4.72589884821302e-12
+Monocyte	Type 2 T helper cell	0.332471646886514	8.28195878899724e-09
+Natural killer cell	Type 2 T helper cell	0.455610687654887	9.68282687096936e-18
+Natural killer T cell	Type 2 T helper cell	0.573937614369558	9.55556121331613e-31
+Neutrophil	Type 2 T helper cell	0.284065256692077	2.95037283203355e-06
+Plasmacytoid dendritic cell	Type 2 T helper cell	0.390067742403252	1.72129765460516e-12
+Regulatory T cell	Type 2 T helper cell	0.524651641678262	1.08591315991181e-24
+T follicular helper cell	Type 2 T helper cell	0.530281872823309	2.49498503318905e-25
+Type 1 T helper cell	Type 2 T helper cell	0.502137992595049	3.04315348838866e-22
+Type 17 T helper cell	Type 2 T helper cell	0.260928674539925	3.27401048736689e-05
+Type 2 T helper cell	Type 2 T helper cell	1	0
+riskScore	Type 2 T helper cell	0.312875973850359	1.09984019627286e-09
+Activated B cell	riskScore	-0.0547739553264415	1
+Activated CD4 T cell	riskScore	0.490705176290309	4.50486379959601e-21
+Activated CD8 T cell	riskScore	-0.0956085601992182	1
+Activated dendritic cell	riskScore	0.294739665156541	8.85315348572565e-07
+CD56bright natural killer cell	riskScore	-0.10172298821219	1
+CD56dim natural killer cell	riskScore	-0.002119176654586	1
+Central memory CD4 T cell	riskScore	0.224422739490545	0.000825209567789748
+Central memory CD8 T cell	riskScore	0.109675859048034	0.847346160015475
+Effector memeory CD4 T cell	riskScore	0.197931902351792	0.00691908770558673
+Effector memeory CD8 T cell	riskScore	-0.129169675126481	0.427295636380742
+Eosinophil	riskScore	-0.317836608394117	5.38233261594114e-08
+Gamma delta T cell	riskScore	-0.0114398409225129	1
+Immature  B cell	riskScore	0.00514202020982533	1
+Immature dendritic cell	riskScore	0.0735688219364764	1
+Macrophage	riskScore	-0.00366659959829222	1
+Mast cell	riskScore	-0.111219769682854	0.847346160015475
+MDSC	riskScore	0.120214792741161	0.637252050122666
+Memory B cell	riskScore	0.117684174188443	0.67352387038798
+Monocyte	riskScore	-0.000823887313088719	1
+Natural killer cell	riskScore	-0.111378576220364	0.847346160015475
+Natural killer T cell	riskScore	0.107234302613509	0.905480830855073
+Neutrophil	riskScore	-0.0720949066001803	1
+Plasmacytoid dendritic cell	riskScore	0.147853904006591	0.171377332869748
+Regulatory T cell	riskScore	0.092435189120272	1
+T follicular helper cell	riskScore	0.11725316371223	0.67352387038798
+Type 1 T helper cell	riskScore	-0.102114359773827	1
+Type 17 T helper cell	riskScore	0.0123063777006519	1
+Type 2 T helper cell	riskScore	0.312875973850359	1.01185298057103e-07
+riskScore	riskScore	1	0
