@@ -10,23 +10,23 @@ Here, we will provide the steps of these analyses and some of the key document i
 The TCGA – LIHC dataset was retrieved from the GDC official website (https://portal.gdc.cancer.gov/repository). Firstly, the FPKM file of gene expression profile was added to cart, then the cart files and metadata files were downloaded directly. The metadata file downloaded at that time can be found in attachment named as Metadata.cart.2021-12-15.json, the downloaded data was then consolidated into an expression matrix using putFilestoonedir.pl and mrna_merge.pl scripts.
 
 ``` perl
-#Switch to the directory where the expression matrix is located
+# Switch to the directory where the expression matrix is located
 perl path/to/putFilestoonedir.pl #Put all gz files in one directory 
 # Go to the directory obtained in the previous step
-perl path/to/mrna_merge.pl path/to/Metadata.cart.2021-12-15.json #Merge the expression data of a single sample into a matrix
+perl path/to/mrna_merge.pl path/to/Metadata.cart.2021-12-15.json # Merge the expression data of a single sample into a matrix
 ```
 
 After that, through ensemblToSymbol.pl script in combination with Homo_sapiens.GRCh38.104.chr.gtf (http://ftp.ensembl.org/pub/release-104/gtf/homo_sapiens/) annotation files, the gene ID in the matrix was converted to mRNA.symbol.txt finally. 
 
 ``` perl
-perl path/to/ensemblToSymbol.pl path/to/Homo_sapiens.GRCh38.104.chr.gtf path/to/ensemblmatrix.txt path/to/symbolmatrix.txt #convert gene ID
+perl path/to/ensemblToSymbol.pl path/to/Homo_sapiens.GRCh38.104.chr.gtf path/to/ensemblmatrix.txt path/to/symbolmatrix.txt # convert gene ID
 ```
 
 Similarly, the clinical data of TCGA-LIHC dataset in GDC official website was added to CART, and the cart file was downloaded directly, and then the clinical information was gotten via getClinical.pl.
 
 ``` perl
 # Switch to the directory where the clinical information is located
-perl path/to/getClinical.pl  #Extract clinical information
+perl path/to/getClinical.pl  # Extract clinical information
 ```
 
 ### GEO data downloading
