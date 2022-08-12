@@ -36,7 +36,7 @@ GSE14520-gPL3921_series_matrix.txt.gz data obtained using GPL3921 platform was d
 
 R and RSrudio software were installed separately, then RSrudio software was  opened and the code in code.R was executed by line.
 
-## Other key Information
+## Other key information
 
 Background gene set files (c2.cp.kegg.v7.4.symbols.gmt and c5.go.v7.4.symbols.gmt ) for Gene Set Enrichment Analysis were downloaded from MSigDB database (http://www.gsea-msigdb.org/gsea/downloads_archive.jsp). Moreover, gSE54236_series_matrix.txt. gz of the verification dataset (GSE54236 dataset ) was downloaded from the GEO official website (https://ftp.ncbi.nlm.nih.gov/geo/series/GSE54nnn/GSE54236/matrix/), and the platform file of the GSE54236 dataset is GPL6480-9577.txt.
 ## Contact us
