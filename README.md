@@ -7,7 +7,7 @@ Here, we will provide the steps of these analyses and some of the key document i
 
 ### TCGA data downloading
 
-The TCGA – LIHC dataset was retrieved tfrom the GDC official website (https://portal.gdc.cancer.gov/repository). Firstly, the FPKM file of gene expression profile was added to cart, then the cart files and metadata files were downloaded directly. The metadata file downloaded at that time can be found in attachment named as Metadata.cart.2021-12-15.json, the downloaded data is then consolidated into an expression matrix using putFilestoonedir.pl and mrna_merge.pl scripts.
+The TCGA – LIHC dataset was retrieved from the GDC official website (https://portal.gdc.cancer.gov/repository). Firstly, the FPKM file of gene expression profile was added to cart, then the cart files and metadata files were downloaded directly. The metadata file downloaded at that time can be found in attachment named as Metadata.cart.2021-12-15.json, the downloaded data was then consolidated into an expression matrix using putFilestoonedir.pl and mrna_merge.pl scripts.
 
 ``` perl
 #Switch to the directory where the expression matrix is located
@@ -31,14 +31,14 @@ perl path/to/getClinical.pl  #Extract clinical information
 
 ### GEO data downloading
 
-GSE14520-gPL3921_series_matrix.txt.gz data obtained using GPL3921 platform were downloaded from the GEO official website (https://ftp.ncbi.nlm.nih.gov/geo/series/GSE14nnn/GSE14520/matrix/), the expression matrix was extracted and the matrix file GSE14520_probeExpr.txt was obtained. At the same time, the GPL3921 platform annotation file gPL3921-25447.txt was downloaded, and the probe annotation file gPL3921-25447 probe-symble.TXT was obtained. Moreover, the supplementary file gse14520_extra_supplements.txt.gz of the GSE14520 dataset was downloaded and the clinical information gse14520_clinical.txt was obtained.
+GSE14520-gPL3921_series_matrix.txt.gz data obtained using GPL3921 platform was downloaded from the GEO official website (https://ftp.ncbi.nlm.nih.gov/geo/series/GSE14nnn/GSE14520/matrix/), the expression matrix was extracted and the matrix file GSE14520_probeExpr.txt was obtained. At the same time, the GPL3921 platform annotation file gPL3921-25447.txt was downloaded, and the probe annotation file gPL3921-25447 probe-symble.TXT was obtained. Moreover, the supplementary file gse14520_extra_supplements.txt.gz of the GSE14520 dataset was downloaded and the clinical information gse14520_clinical.txt was obtained.
 ## The above files are the initial input files of the data analysis script code.R. All subsequent analyses were performed using the above data.
 
 R and RSrudio software were installed separately, then RSrudio software was  opened and the code in code.R was executed by line.
 
 ## Other key Information
 
-Background gene set files (c2.cp.kegg.v7.4.symbols.gmt and c5.go.v7.4.symbols.gmt ) for Gene Set enrichment Analysis  were downloaded from MSigDB database (http://www.gsea-msigdb.org/gsea/downloads_archive.jsp). Moreover, gSE54236_series_matrix.txt. gz of the verification dataset (GSE54236 dataset ) was downloaded from the GEO official website (https://ftp.ncbi.nlm.nih.gov/geo/series/GSE54nnn/GSE54236/matrix/),and the platform file of the GSE54236 dataset is GPL6480-9577.txt.
+Background gene set files (c2.cp.kegg.v7.4.symbols.gmt and c5.go.v7.4.symbols.gmt ) for Gene Set Enrichment Analysis were downloaded from MSigDB database (http://www.gsea-msigdb.org/gsea/downloads_archive.jsp). Moreover, gSE54236_series_matrix.txt. gz of the verification dataset (GSE54236 dataset ) was downloaded from the GEO official website (https://ftp.ncbi.nlm.nih.gov/geo/series/GSE54nnn/GSE54236/matrix/), and the platform file of the GSE54236 dataset is GPL6480-9577.txt.
 ## Contact us
 
 If you have any questions, please send us an email at sl123456@qlu.edu.cn
