@@ -11,7 +11,7 @@ The TCGA – LIHC dataset was retrieved from the GDC official website (https://p
 
 ``` perl
 # Switch to the directory where the expression matrix is located
-perl path/to/putFilestoonedir.pl #Put all gz files in one directory 
+perl path/to/putFilestoonedir.pl # Put all gz files in one directory 
 # Go to the directory obtained in the previous step
 perl path/to/mrna_merge.pl path/to/Metadata.cart.2021-12-15.json # Merge the expression data of a single sample into a matrix
 ```
@@ -34,7 +34,7 @@ perl path/to/getClinical.pl  # Extract clinical information
 GSE14520-gPL3921_series_matrix.txt.gz data obtained using GPL3921 platform was downloaded from the GEO official website (https://ftp.ncbi.nlm.nih.gov/geo/series/GSE14nnn/GSE14520/matrix/), the expression matrix was extracted and the matrix file GSE14520_probeExpr.txt was obtained. At the same time, the GPL3921 platform annotation file gPL3921-25447.txt was downloaded, and the probe annotation file gPL3921-25447 probe-symble.TXT was obtained. Moreover, the supplementary file gse14520_extra_supplements.txt.gz of the GSE14520 dataset was downloaded and the clinical information gse14520_clinical.txt was obtained.
 ## The above files are the initial input files of the data analysis script code.R. All subsequent analyses were performed using the above data.
 
-R and RSrudio software were installed separately, then RSrudio software was  opened and the code in code.R was executed by line.
+R and RSrudio software were installed separately, then RSrudio software was opened and the code in code.R was executed by line.
 
 ## Other key information
 
